@@ -1,30 +1,34 @@
-# الموقع الشخصي لمحمد الكناني
+تمام! ده ترجمة كاملة باللغة الإنجليزية لنفس النص اللي كتبته، مع الحفاظ على التنسيق:
 
-هذا هو الموقع الشخصي لمحمد الكناني، مطور برمجيات Backend & Systems. يعرض هذا الموقع المهارات والمشاريع والمعلومات الشخصية.
+---
 
-## المميزات
+# Personal Website of Mohamed Elkenany
 
-- تصميم متجاوب يعمل على جميع الأجهزة
-- واجهة مستخدم عربية سهلة الاستخدام
-- أقسام لعرض المهارات والمشاريع والمعلومات الشخصية
-- نموذج اتصال للتواصل المباشر
-- تأثيرات حركية بسيطة وجذابة
+This is the personal website of Mohamed Elkenany, a Backend & Systems software developer. It showcases skills, projects, and personal information.
 
-## التقنيات المستخدمة
+## Features
 
-- HTML5
-- CSS3 (مع متغيرات CSS وتخطيط Flexbox و Grid)
-- JavaScript (ES6+)
-- Font Awesome للأيقونات
-- خط Cairo للعرض باللغة العربية
+* Responsive design compatible with all devices
+* Arabic-friendly and user-friendly interface
+* Sections for displaying skills, projects, and personal info
+* Contact form for direct communication
+* Simple and attractive animations
 
-## كيفية الاستخدام
+## Technologies Used
 
-1. قم بتنزيل أو استنساخ هذا المستودع
-2. افتح ملف `index.html` في متصفحك المفضل
-3. يمكنك أيضًا استضافة الموقع على أي خدمة استضافة مواقع
+* HTML5
+* CSS3 (with CSS variables, Flexbox, and Grid layout)
+* JavaScript (ES6+)
+* Font Awesome for icons
+* Cairo font for Arabic display
 
-## هيكل المشروع
+## How to Use
+
+1. Download or clone this repository
+2. Open the `index.html` file in your preferred browser
+3. You can also host the website using any web hosting service
+
+## Project Structure
 
 ```
 personal-website/
@@ -44,20 +48,23 @@ personal-website/
 └── index.html
 ```
 
-## التخصيص
+## Customization
 
-يمكنك تخصيص هذا الموقع بسهولة من خلال:
+You can easily customize this website by:
 
-1. تعديل متغيرات CSS في ملف `style.css` لتغيير الألوان والخطوط
-2. تحديث المعلومات الشخصية والمهارات والمشاريع في ملف `index.html`
-3. إضافة أو إزالة أقسام حسب الحاجة
+1. Editing CSS variables in `style.css` to change colors and fonts
+2. Updating personal info, skills, and projects in `index.html`
+3. Adding or removing sections as needed
 
-## الترخيص
+## License
 
-هذا المشروع مرخص بموجب ترخيص MIT.
+This project is licensed under the MIT License.
 
-## التواصل
+## Contact
 
-- البريد الإلكتروني: [mohamed20220632@gmail.com](mailto:mohamed20220632@gmail.com)
-- لينكد إن: [Mohamed Elkenary](https://www.linkedin.com/in/mohamed-elkenany-41aab6264)
-- جيثب: [mohamedtarek64](https://github.com/mohamedtarek64) 
+* Email: [mohamed20220632@gmail.com](mailto:mohamed20220632@gmail.com)
+* LinkedIn: [Mohamed Elkenany](https://www.linkedin.com/in/mohamed-elkenany-41aab6264)
+* GitHub: [mohamedtarek64](https://github.com/mohamedtarek64)
+
+---
+
